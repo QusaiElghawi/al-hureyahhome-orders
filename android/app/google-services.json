@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "232493591448",
+    "project_id": "alhureyah-home-customer-serves",
+    "storage_bucket": "alhureyah-home-customer-serves.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232493591448:android:72230e507b583a7d8b99ed",
+        "android_client_info": {
+          "package_name": "com.alhureyahhome.alhureyah_customer_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232493591448-su108ek8i3o12v0qf3ig408cfldcgjbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-1O6nKEBG6HOQW3aeyYRKNChdwjZ-sB8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232493591448-su108ek8i3o12v0qf3ig408cfldcgjbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
